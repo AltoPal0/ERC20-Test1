@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
 
 contract MyToken is ERC20, Ownable, ERC20Permit {
     constructor(address initialOwner)
-        ERC20("MyToken", "MTK")
+        ERC20("Suyvant1", "SUYVANT1")
         Ownable(initialOwner)
         ERC20Permit("MyToken")
     {}
