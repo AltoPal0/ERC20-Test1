@@ -953,11 +953,11 @@
 			]
 		},
 		"contracts/SuyvanT.sol": {
-			"keccak256": "0x77d56a9406dac0f91ac6c072d2757e442a35c30a8704a714b8a0c567498771cd",
+			"keccak256": "0xeb3db51d1137d9f94ea4aadba68f25b6424bc40d9082e76abd844dc4e0d802fc",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5883ed741e3d3d1e59ac790e6c4a3375bb6a916e65bce0cf6f30b598a074f4ff",
-				"dweb:/ipfs/QmWUxTakT9YdnkgMGeo7JaFzwQuxHxexpaNqZpW4bHoiRG"
+				"bzz-raw://29af08c47616c9f07e0e52f3971fe8a481a6148a475bbc4069ead00e8db31bd6",
+				"dweb:/ipfs/QmbawUbLHSTW3c7ekEdA4e3VBpPSKTGCZEQV5XoJcXsJ6b"
 			]
 		}
 	},

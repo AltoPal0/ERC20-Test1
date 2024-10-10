@@ -7,9 +7,9 @@ import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
 
 contract MyToken is ERC20, Ownable, ERC20Permit {
     constructor(address initialOwner)
-        ERC20("Suyvant1", "SUYT1")
+        ERC20("MyToken", "MTK")
         Ownable(initialOwner)
-        ERC20Permit("Suyvant1")
+        ERC20Permit("MyToken")
     {}
 
     function mint(address to, uint256 amount) public onlyOwner {
